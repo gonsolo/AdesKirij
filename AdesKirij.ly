@@ -11,6 +11,7 @@ Yasemine = \new Staff \with { midiInstrument = "lead 6 (voice)" } \with { instru
                                 fis e d e fis e cis d e                 \bar "|"
                                 fis fis fis e dis b' b b c b            \bar "|"
                                 c c c c c c  c b a c b                  \bar "|"
+                                a a a g  a g fis  e g fis  fis fis cis \bar "|"
                         }
 	        }
         >>
@@ -25,6 +26,7 @@ Jonas = \new Staff \with { midiInstrument = "lead 6 (voice)" } \with { instrumen
                                 r r r r r r r r r                        \bar "|"
                                 dis dis dis c b~ b  a' a g fis           \bar "|"
                                 g g a g a g  g g a g fis                 \bar "|"
+                                cis e fis e  fis e dis  e e d  cis b cis \bar "|"
                         }
                 }
        >>
@@ -41,6 +43,7 @@ Gonzo = \new Staff \with { midiInstrument = "lead 6 (voice)" } \with { instrumen
                                 r r r r r r r r r                       \bar "|"
                                 b b b b b~ b dis dis dis dis            \bar "|"
                                 e e g e g e  e dis cis e dis            \bar "|"
+                                b c d c  c c c  c c c  b b b            \bar "|"
                         }
                 }
                 \new Lyrics \lyricsto "Sopran" {
@@ -51,6 +54,7 @@ Gonzo = \new Staff \with { midiInstrument = "lead 6 (voice)" } \with { instrumen
                                  Fru na levs su mer sa ni ki rik
                                  Tu a -- me -- ri -- a -- a fa -- ken fi -- ros
                                  Ra -- jia mi man ti -- os tu li jia di biu
+                                 Kia -- ra me ju su me san do jen cor tje da ren
                          }
                 }
        >>
