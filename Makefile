@@ -1,6 +1,6 @@
 all: view
 view: AdesKirij.pdf
-	evince $<
+	papers $< &
 AdesKirij.pdf AdesKirij.midi: AdesKirij.ly
 	lilypond AdesKirij.ly
 l: listen
